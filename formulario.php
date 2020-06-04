@@ -1,4 +1,6 @@
 <?php
+var_dump($_POST);
+die();
 
 $nombre = $_POST("nombre");
 $asunto = $_POST("subject");
