@@ -14,4 +14,4 @@ if($send){
 } else{
     echo "Error al enviar el email";
 }
-header("Location: https://enrique-g.github.io");
+// header("Location: https://enrique-g.github.io");
